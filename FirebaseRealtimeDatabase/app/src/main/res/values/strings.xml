@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Firebase Realtime Database</string>
+
+    <array name="genres">
+        <item name="sci-fi">Sci-fi</item>
+        <item name="fiction">Fiction</item>
+        <item name="suspence">Suspense</item>
+        <item name="horror">Horror</item>
+        <item name="thriller">Thriller</item>
+    </array>
+
+    <!-- <item name="enter_name"></item> -->
+
+</resources>
